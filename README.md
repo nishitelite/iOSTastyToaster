@@ -22,7 +22,7 @@ pod 'iOSTastyToaster'
 
 ## Author
 
-nishitelite, nishit@eliteinfoworld.com
+Nishit Patel, nishit@eliteinfoworld.com
 
 ## License
 
