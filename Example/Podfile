@@ -1,0 +1,6 @@
+use_frameworks!
+target 'iOSTastyToaster_Tests' do
+  pod 'iOSTastyToaster', :path => '../'
+  
+  
+end
