@@ -1,0 +1,22 @@
+{
+  "name": "iOSTastyToaster",
+  "version": "0.1.0",
+  "summary": "A short description of iOSTastyToaster.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nishitelite/iOSTastyToaster",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nishitelite": "nishit@eliteinfoworld.com"
+  },
+  "source": {
+    "git": "https://github.com/nishitelite/iOSTastyToaster.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "iOSTastyToaster/Classes/**/*"
+}

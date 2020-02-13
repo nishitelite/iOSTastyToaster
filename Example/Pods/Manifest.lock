@@ -1,0 +1,16 @@
+PODS:
+  - iOSTastyToaster (0.1.0)
+
+DEPENDENCIES:
+  - iOSTastyToaster (from `../`)
+
+EXTERNAL SOURCES:
+  iOSTastyToaster:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  iOSTastyToaster: 9107d48ed8adb8adf1cde5e6cc33f698489abb4a
+
+PODFILE CHECKSUM: 77ee45d6fe15c4ec9257919d808887741fccc258
+
+COCOAPODS: 1.8.4
