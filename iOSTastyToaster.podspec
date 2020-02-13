@@ -32,9 +32,9 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Source/**/*.swift'
   s.swift_version = '4.0'
-  s.platforms = {
-      "ios" : "12.0"
-  }
+#  s.platforms = {
+#      "ios" : "12.0"
+#  }
   # s.resource_bundles = {
   #   'iOSTastyToaster' => ['iOSTastyToaster/Assets/*.png']
   # }
